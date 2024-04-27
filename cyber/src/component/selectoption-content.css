@@ -1,0 +1,12 @@
+.option{
+  position: relative;
+  left: 910px;
+  bottom: 300px;
+}
+.my-rating{
+  width: 200px;
+  position: relative;
+  right: 110px;
+  background-color: #FFFFFF;
+  color: black;
+}

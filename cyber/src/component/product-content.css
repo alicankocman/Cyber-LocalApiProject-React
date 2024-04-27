@@ -1,0 +1,54 @@
+.product-content{
+    width: 800px;
+    height: 1400px;
+    background-color: white;
+    position: relative;
+    bottom: 350px;
+    left: 220px;
+}
+.product-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-card {
+    width: 245px;
+    height: 400px;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.product-image{
+    width: 85%;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.like{
+    width: 15px;
+    height: 20px;
+    position: relative;
+    left: 100px;
+    bottom: 10px;
+}
+.button7{
+    width: 180px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}

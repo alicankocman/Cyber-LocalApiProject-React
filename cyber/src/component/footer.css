@@ -1,0 +1,71 @@
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    right: px;
+    top: 600px;
+    width: 1520px;
+    height: 600px;
+}
+
+.logo{
+    position: relative;
+    right: 560px;
+    top: 100px;
+}
+
+.text_one{
+    position: relative;
+    right: 370px;
+    top: 100px;
+    color: #CFCFCF;
+}
+
+.text_two{
+    position: relative;
+    right: 475px;
+    top: 100px;
+    color: #CFCFCF;
+}
+.button{
+    display: flex;
+    position: relative;
+    left: 700px;
+    bottom: 60px;
+    margin-top: 15px;
+   background-color: black;
+   border: none;
+   color: #CFCFCF;
+}
+.title{
+    font-size: larger;
+    color: white;
+}
+.Assistancetothebuyer{
+position: relative;
+left: 300px;
+bottom: 300px;
+}
+.Services{
+    position: relative;
+    bottom: 5px;
+}
+.logos{
+    position: relative;
+    right: 520px;
+    bottom: 340px;
+}
+.logo2,.logo1,.logo3,.logo4{
+    height: 20px;
+    margin-left: 30px;
+}
+.Services{
+    position: relative;
+    top: 30px;
+}
+.Assistancetothebuyer{
+    position: relative;
+    bottom: 260px;
+}

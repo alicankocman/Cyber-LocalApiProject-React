@@ -1,0 +1,77 @@
+.navbar{
+    position: relative;
+    width: 1525px;
+ top: 7px;
+    right: 7px;
+    border-bottom: 1px solid black;
+    background-color: white;
+ 
+}
+  
+.cart{
+    position: relative;
+    left: 180px;
+    bottom: 100px;
+}
+.favorites{
+    position: relative;
+    left: 150px;
+    bottom: 100px;
+
+}
+.vector{
+    position: relative;
+left: 220px;
+bottom: 100px;
+}
+.me-2{
+    width: 372px;
+    height: 56px;
+    background-color: #F5F5F5;
+    position: relative;
+    left: 200px;
+    bottom: 5px;
+}
+.nav-item{
+    position: relative;
+    left: 380px;
+}
+.home{
+    position: relative;
+right: 160px;
+}
+.about{
+    position: relative;
+    right: 120px;
+}
+.contact{
+    position: relative;
+    right: 80px;
+}
+.blog{
+    position: relative;
+    right: 40px;
+}
+.logocyber{
+    position: relative;
+    left: 160px;
+
+}
+
+
+.form-control{
+    position: relative;
+    left: 200px;
+    background-color: #F5F5F5;
+    color: #F5F5F5;
+    width: 250px;
+}
+.material-symbols-outlined{
+    position: relative;
+right: 65px;
+top: 10px;
+color: #989898;
+}
+.nav-link:hover{
+    color: black;
+}

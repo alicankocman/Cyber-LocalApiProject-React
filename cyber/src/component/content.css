@@ -1,0 +1,30 @@
+.content{
+    width: 1000px;
+    height: 800px;
+    background-color: white;
+position: relative;
+left: 170px;
+}
+
+.dropdown{
+    position: relative;
+    left: 100px;
+    bottom: 0px;
+}
+.btn{
+    width: 200px;
+}
+.productadet{
+    position: relative;
+    left: 230px;
+    bottom: 330px;
+    color: #6C6C6C;
+}
+
+.adet{
+    position: relative;
+    left: 130px;
+    bottom: 23px;
+    color: black;
+    font-size: 16px;
+}

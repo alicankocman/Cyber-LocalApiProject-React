@@ -1,0 +1,44 @@
+.dropdown-menu{
+    width: 200px;
+}
+.dropdown{
+    margin-bottom: 1px;
+
+}
+
+.btn{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    position: relative;
+    right: 100px;
+    top: 0px;
+    border: none;
+}
+
+.yazi1{
+    position: relative;
+right: 80px;
+}
+.yazi2{
+    position: relative;
+right: 45px;
+}
+.yazi3{
+    position: relative;
+right: 60px;
+}
+.yazi4{
+    position: relative;
+right: 45px;
+}
+.yazi5{
+    position: relative;
+right: 45px;
+}
+.yazi6{
+    position: relative;
+right: 45px;
+}

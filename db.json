@@ -1,0 +1,14 @@
+{
+    "products": [
+      { "id": "1", "ProductName":"Apple","img":"https://cdn.cimri.io/pictures/article/original/38/38036.jpg" ,"title": "Apple iPhone 14 Pro 512GB Gold (MQ233)", "price": "$1437" },
+      { "id": "2","ProductName":"Samsung","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBizhkS2rdMa0mgFLy_Tu9v9SP_qibfFvIAMOmhyUfow&s" ,"title": "SMS911UZEAVZW | Galaxy S23 128GB (Verizon)", "price": "$695" },
+      { "id": "3","ProductName":"Pocco","img":"https://m.media-amazon.com/images/I/61rp9ImBwkL._AC_UF1000,1000_QL80_.jpg" ,"title": " POCO M5, 6GB RAM, 128GB Hafıza, Yeşil", "price": "$100" },
+      { "id": "4","ProductName":"Nokia","img":"https://www.tusluceptelefonu.com.tr/wp-content/uploads/2024/01/Nokia-1110-RH-70.jpg" ,"title": "Nokia 1110i Tuşlu Telefon-Mavi(128gb)", "price": "$1300" },
+      { "id": "5","ProductName":"Xiamio","img":"https://cdn03.ciceksepeti.com/cicek/kc8443207-1/L/redmi-note-9-128gb-yesil-cep-telefonu--xiaomi-turkiye-garantili--kc8443207-1-a239b025b33a43feb620783d01673d55.jpg" ,"title": "Redmi Note 9 128GB Yeşil(Global)", "price": "$437" },
+      { "id": "6","ProductName":"Honor","img":"https://m.media-amazon.com/images/I/61ezIwX4LJL._AC_UF894,1000_QL80_.jpg" ,"title": "Honor X8a Dual SIM 128GB ROM + 6GB", "price": "$510" },
+      { "id": "7","ProductName":"Realme","img":"https://cdn03.ciceksepeti.com/cicek/kcm3424641-1/L/oppo-realme-c21-64gb-mavi-cep-telefonu-realme-turkiye-garantili-kcm3424641-1-9ff3c5b2fb2a4688b02b0ba53fb82fc0.jpg","title": "Oppo Realme C21 64GB Mavi Cep Telefonu", "price": "$1000" },
+      { "id": "8","ProductName":"Oppo","img":"https://cdn.cimri.io/image/860x860/oppo-a55-128gb-4gb-ram-651-inc-50mp-akilli-cep-telefonu_654315743.jpg" ,"title": "Oppo A54 128 GB Black (Global)", "price": "$1300" },
+      { "id": "9","ProductName":"Motorola","img":"https://cdn.akakce.com/motorola/motorola-moto-z4-z.jpg" ,"title": "Motorola Moto Z4 1TB Memory(TR)", "price": "$1437" }
+    ]
+   
+  }
